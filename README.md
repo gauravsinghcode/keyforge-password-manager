@@ -117,6 +117,7 @@ Python 3.8 or higher
    ```bash
    git clone https://github.com/yourusername/keyforge-password-manager.git
    cd keyforge-password-manager
+   mkdir UsersData
    ```
 
 2. **Install dependencies**
